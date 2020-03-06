@@ -62,7 +62,9 @@ The constants below are defined by this extension, and will only be available wh
 
 - SplDoublyLinkedList：The SplDoublyLinkedList class
 
-[doubly-linked-list/](https://www.geeksforgeeks.org/doubly-linked-list/)
+![DLL](./images/DLL1.png)
+
+> [doubly-linked-list/](https://www.geeksforgeeks.org/doubly-linked-list/)
 
 
 - SplStack：The SplStack class
