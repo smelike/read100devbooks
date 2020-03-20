@@ -6,3 +6,6 @@ https://www.sumatrapdfreader.org/free-pdf-reader.html
 https://www.videolan.org/vlc/index.html
 
 
+
+
+nginx: [emerg] unexpected "}" in /etc/nginx/conf.d/backend.huaxia.conf:18
