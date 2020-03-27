@@ -1,8 +1,8 @@
 <?php
 
 class ScanFile extends FilterIterator {
-	protected $ext = array('jpg', 'gif');
-	
+	//protected $ext = array('jpg', 'gif');
+	protected $ext = array('pdf', 'epub');
 	public function __construct($path) {
 		parent::__construct(new RecursiveIteratorIterator(new RecursiveDirectoryIterator($path)));
 	}
